@@ -5,3 +5,8 @@ November
 getting from staging to working area
 Git branch strategy
 Git merging strategy
+
+
+
+
+Added a branch dev

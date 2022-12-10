@@ -29,4 +29,5 @@ Introduction sso
 Rename hook file
 
 Added pre-commit check:
-Added pre-commit because I have to 
+Added pre-commit because I have to
+Creating a merge conflict - I want to understand merge conflict 

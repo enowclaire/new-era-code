@@ -27,3 +27,5 @@ Introduction githooks
 
 Introduction sso
 Rename hook file
+
+Added pre-commit check: 

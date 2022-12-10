@@ -29,4 +29,4 @@ Introduction sso
 Rename hook file
 
 Added pre-commit check:
-Remove pre-commit 
+Added pre-commit because I have to 
